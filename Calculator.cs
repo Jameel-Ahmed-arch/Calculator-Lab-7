@@ -12,6 +12,10 @@ int main() {
     int a, b;
     cout << "Enter two numbers: ";
     cin >> a >> b;
+ Division
+
+ Multiplication
+ Multiplication
 Division
     if (b != 0) {
         cout << "Quotient: " << a / b << endl;
@@ -21,5 +25,11 @@ Division
 
     cout << "Product: " << a * b << endl;
 Multiplication
+ Division
+
+
+    cout << "Difference: " << a - b << endl;
+substruction
+ Multiplication
     return 0;
 }
