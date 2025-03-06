@@ -12,6 +12,7 @@ int main() {
     int a, b;
     cout << "Enter two numbers: ";
     cin >> a >> b;
+ Substruction
  Multiplication
  Division
 
@@ -19,6 +20,9 @@ int main() {
 
  substruction
 Substruction
+
+ substruction
+ Addition
  Multiplication
 Division
     if (b != 0) {
@@ -29,6 +33,7 @@ Division
 
     cout << "Product: " << a * b << endl;
 Multiplication
+ Substruction
  Multiplication
  Division
 
@@ -38,11 +43,16 @@ substruction
  Multiplication
 
 
+ Addition
+
     cout << "Difference: " << a - b << endl;
 substruction
 
     cout << "Sum: " << a + b << endl;
  Adition
+ Substruction
 Substruction
+
+ Addition
     return 0;
 }
